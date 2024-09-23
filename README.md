@@ -7,6 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgmilan29&label=Profile%20views&color=0e75b6&style=flat" alt="cgmilan29" /> </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=cgmilan29&theme=radica&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=truel"/>
+  </a> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="cgmilan29" /></a> </p>
 
