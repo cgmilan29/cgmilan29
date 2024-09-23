@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milan Chapain</h1>
 <h3 align="center">Open-source advocate | Problem solver | Dedicated to crafting clean and scalable software solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cgmilan29&label=Profile%20views&color=0e75b6&style=flat" alt="cgmilan29" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="cgmilan29" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/cgmilan29" target="blank"><img src="https://img.shields.io/twitter/follow/cgmilan29?logo=twitter&style=for-the-badge" alt="cgmilan29" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript Project**
 
